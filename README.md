@@ -1,2 +1,2 @@
-# Using Django
+# Django
 
